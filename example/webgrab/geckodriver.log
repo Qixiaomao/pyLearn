@@ -1,0 +1,20 @@
+1587288230174	geckodriver	INFO	geckodriver 0.19.0
+1587288230190	geckodriver	INFO	Listening on 127.0.0.1:52800
+1587288232709	mozrunner::runner	INFO	Running command: "E:\\电脑软件\\火狐浏览器\\firefox.exe" "-marionette" "-profile" "C:\\Users\\14864\\AppData\\Local\\Temp\\rust_mozprofile.Mh1I9NBb5bus"
+1587390108372	mozrunner::runner	INFO	Running command: "E:\\电脑软件\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14864\\AppData\\Local\\Temp\\rust_mozprofileSrz1JT"
+1587390112901	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587390113253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587390113254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587390113255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587390113255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587390126338	Marionette	INFO	Listening on port 7192
+1587390128339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587390167657	Marionette	INFO	Stopped listening on port 7192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587390246445	mozrunner::runner	INFO	Running command: "E:\\电脑软件\\火狐浏览器\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\14864\\AppData\\Local\\Temp\\rust_mozprofileOfaM70"

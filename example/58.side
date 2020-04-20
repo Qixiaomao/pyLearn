@@ -1,0 +1,235 @@
+{
+  "id": "ee060443-2b9e-4f89-820c-22c459117106",
+  "version": "2.0",
+  "name": "58",
+  "url": "https://callback.58.com",
+  "tests": [{
+    "id": "ecdc3c4a-f733-436c-a2d8-089f0a2eeefe",
+    "name": "cat58",
+    "commands": [{
+      "id": "ec0f9f7a-75e5-4c15-aa6e-cb5288dc18be",
+      "comment": "",
+      "command": "open",
+      "target": "/antibot/verifycode?serialId=2d8fb2c57ecf192bfb4e547b60bbf921_ddc793b5ffbc404a97bb8f4d95692139&code=21&sign=07560e01a7b2db772d0acfb7e908641b&namespace=huangyelistpc&url=https%3A%2F%2Finfo5.58.com%2Fhezhou%2Fcat%2F%3Futm_source%3Dlink%26spm%3Du-Lj4SZGxa1luDubj.psy_jiugongge%26PGTID%3D0d100000-0293-562e-aa1d-a72ef06b6cd8%26ClickID%3D2",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "878fa143-27c3-4ca6-8483-d3399231c25d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "887x692",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "73a99f42-b8cb-4388-90a4-d9387414c022",
+      "comment": "",
+      "command": "click",
+      "target": "id=btnSubmit",
+      "targets": [
+        ["id=btnSubmit", "id"],
+        ["css=#btnSubmit", "css:finder"],
+        ["xpath=//input[@id='btnSubmit']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "09490587-da96-4206-961f-3f8a22d0f1db",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=btnSubmit",
+      "targets": [
+        ["id=btnSubmit", "id"],
+        ["css=#btnSubmit", "css:finder"],
+        ["xpath=//input[@id='btnSubmit']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f0a3ea9c-4e8a-48aa-aaa9-dcf0e77f8a1d",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "id=btnSubmit",
+      "targets": [
+        ["id=btnSubmit", "id"],
+        ["css=#btnSubmit", "css:finder"],
+        ["xpath=//input[@id='btnSubmit']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2cf467de-6d02-4645-8155-fc107a0bf11f",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "id=dvc-captcha__canvas",
+      "targets": [
+        ["id=dvc-captcha__canvas", "id"],
+        ["css=#dvc-captcha__canvas", "css:finder"],
+        ["xpath=//canvas[@id='dvc-captcha__canvas']", "xpath:attributes"],
+        ["xpath=//div[@id='ISDCaptcha']/div/div/canvas", "xpath:idRelative"],
+        ["xpath=//canvas", "xpath:position"]
+      ],
+      "value": "270.5,100"
+    }, {
+      "id": "f1843e74-f53e-4e27-bbc2-bed4e7f81c9c",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "id=dvc-captcha__canvas",
+      "targets": [
+        ["id=dvc-captcha__canvas", "id"],
+        ["css=#dvc-captcha__canvas", "css:finder"],
+        ["xpath=//canvas[@id='dvc-captcha__canvas']", "xpath:attributes"],
+        ["xpath=//div[@id='ISDCaptcha']/div/div/canvas", "xpath:idRelative"],
+        ["xpath=//canvas", "xpath:position"]
+      ],
+      "value": "270.5,100"
+    }, {
+      "id": "8001aaf9-a710-4ff3-8705-eda02af027d6",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "id=dvc-captcha__canvas",
+      "targets": [
+        ["id=dvc-captcha__canvas", "id"],
+        ["css=#dvc-captcha__canvas", "css:finder"],
+        ["xpath=//canvas[@id='dvc-captcha__canvas']", "xpath:attributes"],
+        ["xpath=//div[@id='ISDCaptcha']/div/div/canvas", "xpath:idRelative"],
+        ["xpath=//canvas", "xpath:position"]
+      ],
+      "value": "270.5,100"
+    }, {
+      "id": "b3a128a9-ed9c-4fdd-b1e1-7757e02c8af1",
+      "comment": "",
+      "command": "click",
+      "target": "id=dvc-captcha__canvas",
+      "targets": [
+        ["id=dvc-captcha__canvas", "id"],
+        ["css=#dvc-captcha__canvas", "css:finder"],
+        ["xpath=//canvas[@id='dvc-captcha__canvas']", "xpath:attributes"],
+        ["xpath=//div[@id='ISDCaptcha']/div/div/canvas", "xpath:idRelative"],
+        ["xpath=//canvas", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8b910982-b5b7-432c-9284-1e403f29b4f1",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=狗",
+      "targets": [
+        ["linkText=狗", "linkText"],
+        ["css=#cwNav > em > a:nth-child(1)", "css:finder"],
+        ["xpath=(//a[contains(text(),'狗')])[2]", "xpath:link"],
+        ["xpath=//li[@id='cwNav']/em/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/dog/')])[2]", "xpath:href"],
+        ["xpath=//li[5]/em/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3aeb6dee-3f95-4fb2-832e-adaff954875a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=特惠九成新家具",
+      "targets": [
+        ["linkText=特惠九成新家具", "linkText"],
+        ["css=.cbp2 > .board:nth-child(1) .AdTilRt > a", "css:finder"],
+        ["xpath=//a[contains(text(),'特惠九成新家具')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/ershoujiaju/?from=pc_home_hy_essc_thjcxjj')]", "xpath:href"],
+        ["xpath=//div[2]/div/h2/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'特惠九成新家具')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "079a3dc9-5e6f-43f1-8ce6-bf7ef3745098",
+      "comment": "",
+      "command": "click",
+      "target": "css=.board:nth-child(1) > a:nth-child(6)",
+      "targets": [
+        ["css=.board:nth-child(1) > a:nth-child(6)", "css:finder"],
+        ["xpath=(//a[contains(text(),'宠物猫')])[2]", "xpath:link"],
+        ["xpath=(//a[contains(@href, '/cat/')])[4]", "xpath:href"],
+        ["xpath=//div[3]/div/div/div/div[2]/div/a[3]", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win4418",
+      "windowTimeout": 2000
+    }, {
+      "id": "1a5ff239-c2cf-4ef9-823f-3a2b4f72119d",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win4418}",
+      "targets": [],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win9661",
+      "windowTimeout": 2000
+    }, {
+      "id": "8e696568-b0d0-4d66-a3f1-71042d1d8b09",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win5319}",
+      "targets": [],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win617",
+      "windowTimeout": 2000
+    }, {
+      "id": "7fd3d109-4e20-4ebb-b1af-e8a47909ccbf",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win4418}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5d41a96f-d2a9-45dd-94fa-dc876085fdce",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2cb9b41d-911b-4f56-98d6-77cb96e27e14",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win9661}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ef74532d-76b4-407d-ab99-e17ab4c557b4",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5a675959-259e-412f-b3df-f7864524d29f",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win617}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "55554f84-d25a-49c4-a372-9ae12b4080f9",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1b50ac9d-76b6-467a-97c7-0f8efd25715e",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win5319}",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "eea25b45-d44b-47b8-b0bc-c6c9f0584d3b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ecdc3c4a-f733-436c-a2d8-089f0a2eeefe"]
+  }],
+  "urls": ["https://callback.58.com/"],
+  "plugins": []
+}
